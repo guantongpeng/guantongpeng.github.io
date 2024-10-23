@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Tongpeng Guan / Welcome to My Homepage"
+title                    : "Welcome to My Homepage"
 title_separator          : "-"
 name                     : &name "Tongpeng Guan"
 description              : &description "personal description"
