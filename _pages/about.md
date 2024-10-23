@@ -7,20 +7,50 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+Profile
 ======
+* 👋 Hi, I’m @Guan Tongpeng.
+* 👀 I’m interested in computer vision, data mining, biomedical engineering.
+* 🔨 My current research is AI System.
 
-
-Getting started
+Education
 ======
+* M.S. in BeiJing, BeiJing Institute of Technnology, 2019-2022
+* B.S. in BeiJing, BeiJing Institute of Technnology, 2015-2019
 
+Project
+======
+* Single-frame image infrared small target detection
+* Deep learning model converter
+* Deep learning model quantization inference engine
+* Intelligent System demonstration platform
+* Face detection and recognition system
+* Anti-static clothing wearing detection
+* Label-free cell image virtual staining
+* Vital sign detection based on facial video
+* Serum sodium fluctuation prediction based on ICU electronic medical records
 
-Site-wide configuration
-------
+Publications
+======
+* Diuretic Resistance Prediction and Risk Factor Analysis of Patients with Heart Failure During Hospitalization
+* Serum Sodium Fluctuation Prediction among ICU Patients Using Neural Network Algorithm: Analysis of the MIMIC-IV Database
+* Short-Term Prediction of Serum Sodium Level in the ICU Utilizing Interpretable Machine Learning
 
+Skills
+======
+* AI
+  * Computer Vision
+  * Patten Recognition 
+  * Data Mining
+* Programming language
+  * Python 
+  * C 
+  * (Used briefly) HTML, CSS, JavaScript, SQL 
+* Dcoker, Linux, Git, Markdown
+* Language: Chinese(Native), English(CET-6)
 
-Create content & metadata
-------
-
+Awards
+======
+* 2021 China Collegiate Computing Contest - Artificial Intelligence Innovation Contest, First Prize (3/2665) & Innovation and Entrepreneurship Award (2/2665)
+* 2020 "Sharing Cup" Innovation Competition of Science and Technology Resources Sharing Service, Excellence Awards (10%) × 2
+* 2019 The 4th PLAGH-MIT Critical Data Conference and Datathon, First Prize (1/100)
