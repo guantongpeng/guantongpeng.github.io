@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tongpeng Guan's websites"
+title: "Tongpeng Guan's website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -44,8 +44,8 @@ Skills
   * Data Mining
 * Programming language
   * Python 
-  * C 
-  * (Used briefly) HTML, CSS, JavaScript, SQL 
+  * C, C++
+  * HTML, CSS, JavaScript, SQL 
 * Dcoker, Linux, Git, Markdown
 * Language: Chinese(Native), English(CET-6)
 

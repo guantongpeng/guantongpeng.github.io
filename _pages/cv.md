@@ -46,8 +46,8 @@ Skills
   * Data Mining
 * Programming language
   * Python 
-  * C 
-  * (Used briefly) HTML, CSS, JavaScript, SQL 
+  * C, C++
+  * HTML, CSS, JavaScript, SQL 
 * Dcoker, Linux, Git, Markdown
 * Language: Chinese(Native), English(CET-6)
 
