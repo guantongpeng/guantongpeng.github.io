@@ -9,7 +9,7 @@ redirect_from:
 
 Profile
 ======
-* 👋 Hi, I’m @Guan Tongpeng.
+* 👋 Hi, I’m @Tongpeng Guan.
 * 👀 I’m interested in computer vision, data mining, biomedical engineering.
 * 🔨 My current research is AI System.
 
@@ -18,7 +18,7 @@ Education
 * M.S. in BeiJing, BeiJing Institute of Technnology, 2019-2022
 * B.S. in BeiJing, BeiJing Institute of Technnology, 2015-2019
 
-Project
+Projects
 ======
 * Single-frame image infrared small target detection
 * Deep learning model converter
