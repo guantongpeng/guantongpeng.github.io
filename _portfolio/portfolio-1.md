@@ -6,12 +6,14 @@ collection: portfolio
 
 This project has realized the detection of infrared small targets through various datasets and multiple algorithms, including:
 Supported Datasets:
+
 - SIRST
 - NUDT-SIRST
 - IRSTD-1k
 - MWIRSTD
 
 Supported Models:
+
 - ACM
 - ACLNet
 - ISNet

@@ -12,28 +12,21 @@ collection: portfolio
 
 **Conclusions：**The proposed methods can accurately predict short-term serum sodium levels in the following 24-hour prediction window. And our methods can reasonably explain and visualization the prediction results utilizing clinical indicators.
 
-
 <img src='/images/ICU_Serum_Sodium/1.png' alt="models metrics">
 <figcaption>The 24-hour feature window contained serum sodium fluctuation,  laboratory indicators, vital signs, drugs use, fluid intake/output. The upper part showed several situations of classification labels. The lower part showed the method of obtaining the label (Na2) of the regression window. The feature window of regression prediction was the same as the classification prediction.</figcaption>
 <br>
-
-
 
 <img src='/images/ICU_Serum_Sodium/2.png' alt="models metrics">
 <div style="text-align: center;"><figcaption>Flow chart of sample selection</figcaption></div>
 <br>
 
-
-
 <img src='/images/ICU_Serum_Sodium/3.png' alt="models metrics">
 <figcaption>a SHAP values for the LightGBM model. This SHAP plot depicted the importance of each covariate in the development of the predictive model. b, c Scatter plots showed the relationship between feature values and SHAP values for Na1 (b) and chloride (c) of hyponatremia. d, e Scatter plots showed the relationship between feature values and SHAP values for Na1 (d) and chloride (e) of hypernatremia. The cut-off values were 137.5(b), 101(c),142.5(d) and 107(e).</figcaption>
 <br>
 
-
 <img src='/images/ICU_Serum_Sodium/4.png' alt="models metrics">
 <figcaption>a Pearson correlations between LightGBM estimated values and true values (R2 = 0.8636)  b Bland–Altman plots (mean = 0.0019, SD= 2.5535). The blue horizontal line near 0 represents the mean, the black dotted lines represent the 95% confidence interval.</figcaption>
 <br>
-
 
 <img src='/images/ICU_Serum_Sodium/5.png' alt="models metrics">
 <figcaption>SHAP values for LightGBM regression model. Red indicated the feature was positive, blue indicated the feature was opposite. a Summary plot of all features SHAP values. b The average absolute values of the SHAP values of all the features corresponded to the subgraph a one-to-one. The larger the value, the greater the contribution of the feature to the model output. c The impact of each feature SHAP value on the model output for a random sample in the test set. For the convenience of observation, only the first ten features were drawn here. d The SHAP values of each feature of all samples on the test set. It was equivalent to the horizontal superposition of graph c of all the samples on the test set.</figcaption>

@@ -3,11 +3,11 @@ title: "Short-Term Prediction of Serum Sodium Level in the Icu Utilizing Interpr
 collection: publications
 category: manuscripts
 permalink: /publication/2023-06-01
-excerpt: 'I completed the experimental design, code development and paper writing.'
+excerpt: "I completed the experimental design, code development and paper writing."
 date: 2023-06-01
-venue: 'SSRN'
-paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4789223'
-citation: 'Guan T, Cen Y, Zhu J, et al. Short-Term Prediction of Serum Sodium Level in the Icu Utilizing Interpretable Machine Learning[J]. Available at SSRN 4789223.'
+venue: "SSRN"
+paperurl: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4789223"
+citation: "Guan T, Cen Y, Zhu J, et al. Short-Term Prediction of Serum Sodium Level in the Icu Utilizing Interpretable Machine Learning[J]. Available at SSRN 4789223."
 ---
 
 **Background：**Dysnatremia is a central electrolyte disorder in the intensive care unit (ICU) that results in poor prognosis and increases in-hospital mortality risk. The existing clinical method for estimating serum sodium level is based on the experience of doctors, which is subjective and difficult to predict the patient's subsequent status. To simplify this difficulty, we aimed to develop an assistance system for doctors to predict short-term serum sodium changes.

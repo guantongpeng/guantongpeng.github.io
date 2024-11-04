@@ -5,6 +5,7 @@ collection: portfolio
 ---
 
 ## Virtual Staining of Subcellular Structures
+
 Fluorescent labeling is the most common method for visualizing subcellular structures in biomedicine, but traditional fluorescent staining has limitations such as damage to cells, tedious operation process, limited staining channels, and fluorescence quenching, which makes it difficult to observe subcellular structures, especially in application scenarios where cell viability needs to be guaranteed. To this end, a deep learning based virtual staining scheme was proposed to establish the correspondence between the bright-field images and the fluorescence images of subcellular structures. And then, the scheme was implemented to predict the fluorescent images of subcellular structures using bright-field images as input.
 
 Firstly, 12 subcellular structures were implemented to virtual staining using the conventional benchmark 3D-UNet model, but an overfitting phenomenon was found on small-scale data sets. To solve this problem, an improved three-dimensional Densely connected U-Net (3D-DUNet) model was proposed and validated on 12 subcellular structures. The virtual staining performance of the proposed 3D-DUNet model exceeds the 3D-UNet model on most subcellular structures. Moreover, the model complexity was reduced by 25% and the number of model parameters was reduced by 95%.
@@ -15,12 +16,9 @@ To explore the effect of virtual staining in real application scenarios, we exte
 
 The implemented virtual staining scheme has many potential applications in biomedicine. In some scenarios where the accuracy of fluorescence staining is generally required, virtual staining can be an efficient alternative to fluorescence staining. Besides, in some scenarios where fluorescence staining is difficult, virtual staining is still feasible, such as dynamic observation of living cells and synergistic analysis of multiple subcellular structures. In addition, the feasibility and potential of virtual staining of lung cancer nuclei in complex human cells were demonstrated, which provided a theoretical basis and practical reference for the application of virtual staining technology to cancer diagnosis, typing, vitro culture, drug screening, enhanced microscopy and other scenarios where fluorescence staining is used.
 
-
-
 <img src='/images/staining/stain_metrics.png' alt="models metrics">
 <div style="text-align: center;"><figcaption>Performance comparison of different models</figcaption></div>
 <br>
 
 <img src='/images/staining/stain_models.png' alt="models metrics">
 <div style="text-align: center;"><figcaption>Comparison of model parameters and computation</figcaption></div>
-

@@ -3,11 +3,11 @@ title: "Diuretic Resistance Prediction and Risk Factor Analysis of Patients with
 collection: publications
 category: manuscripts
 permalink: /publication/2022-5-27
-excerpt: 'I completed the code development for this article.'
+excerpt: "I completed the code development for this article."
 date: 2022-05-27
-venue: 'Global Heart'
-paperurl: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC9138715/'
-citation: 'Lu X, Xin Y, Zhu J, et al. Diuretic resistance prediction and risk factor analysis of patients with heart failure during hospitalization[J]. Global Heart, 2022, 17(1).'
+venue: "Global Heart"
+paperurl: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9138715/"
+citation: "Lu X, Xin Y, Zhu J, et al. Diuretic resistance prediction and risk factor analysis of patients with heart failure during hospitalization[J]. Global Heart, 2022, 17(1)."
 ---
 
 This study performed a prediction and risk factor analysis of diuretic resistance (DR) in patients with decompensated heart failure during hospitalization.

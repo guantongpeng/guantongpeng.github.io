@@ -4,7 +4,7 @@ collection: publications
 category: graduation
 permalink: /publication/2022-06-03
 date: 2022-06-03
-venue: 'BEIJING INSTITUTE OF TECHNOLOGY'
+venue: "BEIJING INSTITUTE OF TECHNOLOGY"
 ---
 
 Fluorescent labeling is the most common method for visualizing subcellular structures in biomedicine, but traditional fluorescent staining has limitations such as damage to cells, tedious operation process, limited staining channels, and fluorescence quenching, which makes it difficult to observe subcellular structures, especially in application scenarios where cell viability needs to be guaranteed. To this end, a deep learning based virtual staining scheme was proposed to establish the correspondence between the bright-field images and the fluorescence images of subcellular structures. And then, the scheme was implemented to predict the fluorescent images of subcellular structures using bright-field images as input.
