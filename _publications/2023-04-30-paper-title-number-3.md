@@ -2,7 +2,7 @@
 title: "	
 Serum Sodium Fluctuation Prediction among ICU Patients Using Neural Network Algorithm: Analysis of the MIMIC-IV Database"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2023-04-30
 excerpt: 'I completed the experimental design for this article.'
 date: 2023-04-30
